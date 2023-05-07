@@ -11,3 +11,8 @@ learn-design-pattern 学习设计模式
 比如 Spring AOP 是通过代理模式实现的，Spring IOC 是通过工厂模式实现的。将非业务代码抽离出来，让业务代码专注于业务逻辑。
 
 在一些中间件中，比如 Kafka、zookeeper 中
+
+## 参考
+
+- 《Head First 设计模式》
+- 《大话设计模式》
