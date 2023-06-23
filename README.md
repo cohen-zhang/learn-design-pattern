@@ -14,5 +14,5 @@ learn-design-pattern 学习设计模式
 
 ## 参考
 
-- 《Head First 设计模式》
+- 推荐《Head First 设计模式》，这本书讲的很好，通俗易懂，适合入门。
 - 《大话设计模式》
